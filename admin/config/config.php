@@ -7,7 +7,8 @@ session_start();
 
 define("TITLE", "Painel Administrativo v1");
 define("DB_HOST", "localhost");
-define("DB_USER", "localhost");
-define("DB_PASS", "localhost");
-define("DB_SCHEMA", "projeto_php");
+define("DB_USER", "root");
+define("DB_PASS", "");
+define("DB_SCHEMA", "blog_phpiando");
 define("DB_PORT", "3310");
+?>
